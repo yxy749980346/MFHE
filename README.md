@@ -1,4 +1,4 @@
-# MFHE: Multi-Feature Fusion and Hyperbolic Embedding for Liver Registration
+# Liver point cloud registration via multi-feature fusion and hyperbolic embedding for augmented reality surgical navigation
 
 This repository contains the **official PyTorch implementation** of:
 
