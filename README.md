@@ -147,4 +147,4 @@ Our code is built upon the implementations of the following projects:
 
 We sincerely thank their authors for sharing their code and for their valuable contributions to point cloud registration.
 
-We also thank the authors of **[Self-P2IR](https://github.com/junzastar/Self-P2IR)**, *[Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection](https://doi.org/10.1109/TMI.2025.3574198)*, for providing the P2I-LReg dataset and releasing their implementation. We further thank **[LiverMatch](https://github.com/zixinyang9109/LiverMatch)** for sharing its code and advancing preoperative-to-intraoperative liver point cloud matching.
+We also thank the authors of **[Self-P2IR](https://github.com/junzastar/Self-P2IR)**, for providing the P2I-LReg dataset and releasing their implementation. We further thank **[LiverMatch](https://github.com/zixinyang9109/LiverMatch)** for sharing its code and advancing preoperative-to-intraoperative liver point cloud matching.
